@@ -1,4 +1,4 @@
 <div align=center> 
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=EEEUN%20&desc=Eun%20Seo%20Lee&color=auto) <br>
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=%20&desc=DA%20YE%20&color=auto) <br>
 
